@@ -1,20 +1,52 @@
-<<<<<<< HEAD
-# React + Vite
+# 🛍️ Reflect – Modern E-commerce Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fully responsive **E-commerce web application** built using **React + Redux Toolkit + Tailwind CSS**.
 
-Currently, two official plugins are available:
+This project demonstrates real-world frontend architecture including authentication, cart management, wishlist, product filtering, search, checkout flow, and performance optimizations.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 Live Demo: (add your deployed link here)  
+🔗 GitHub Repo: https://github.com/yash-199/Reflect-E-commerce
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the ESLint configuration
+✅ Product listing & category filtering  
+✅ Dynamic category sidebar  
+✅ Product details page  
+✅ Add to Cart / Remove from Cart  
+✅ Wishlist system  
+✅ Checkout & Order Summary  
+✅ User authentication (Login/Logout)  
+✅ Search with debounce  
+✅ Responsive design (Mobile + Tablet + Desktop)  
+✅ Skeleton loading UI  
+✅ Mini cart (slide drawer)  
+✅ Redux Toolkit state management  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# Reflect-E-commerce
->>>>>>> 0296a9e9a2d3eda7450b31b17c0aa701f15c94c3
+---
+
+## 🧠 Tech Stack
+
+### Frontend
+- React JS
+- Redux Toolkit
+- React Router DOM
+- Tailwind CSS
+- Framer Motion
+- React Icons
+
+### Concepts Used
+- Component based architecture
+- Global state management (Redux)
+- Async API calls (thunks)
+- Debouncing
+- Responsive UI
+- Reusable components
+- Skeleton loaders
+- Conditional rendering
+
+---
+
+## 📂 Folder Structure
+
